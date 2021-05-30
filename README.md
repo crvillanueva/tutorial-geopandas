@@ -3,4 +3,4 @@ Jupyter notebook con operaciones básicas de la librería de Python "geopandas" 
 
 Video tutorial:
 
-! [](https://drive.google.com/file/d/1DF8LciYJFqQYOfpL4kKtSDdrhnoPMpq7/view?usp=sharing)
+![](https://drive.google.com/file/d/1DF8LciYJFqQYOfpL4kKtSDdrhnoPMpq7/view?usp=sharing)
